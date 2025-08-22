@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Adrian Cervantes Lopez  
+**Date:** 08/22/25
 
 ---
 
