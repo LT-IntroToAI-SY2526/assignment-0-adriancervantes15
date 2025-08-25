@@ -14,11 +14,11 @@ Git is a system that keeps a history of your code. It also makes working with ot
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing and pushing means saving and adding the changes that you made on your computer onto Github's remote repository. These steps are important as they share your work with other people. 
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is where your work happens. One thing that they contain are READMEs. READMEs are files that help describe your project. 
 
 ---
 
@@ -26,7 +26,7 @@ Git is a system that keeps a history of your code. It also makes working with ot
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[My Proflie](https://github.com/adriancervantes15/adriancervantes15)
 
 ---
 
@@ -34,7 +34,7 @@ Git is a system that keeps a history of your code. It also makes working with ot
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+One aspect of AI that I am most excited to learn about this year is Machine Learning. I took a small intro course on Machine Learning and I found it very interesting, so I would like to continue learning about it. 
 
 ---
 
