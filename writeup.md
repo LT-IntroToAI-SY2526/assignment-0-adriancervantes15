@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-Git is a system that keeps a history of your code. It also makes working with other people easier. Github is similar to 
+Git is a system that keeps a history of your code. It also makes working with other people easier. Github is similar to Git as it has the same features, the difference is that Github has a easy to use interface.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
